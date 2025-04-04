@@ -36,7 +36,7 @@ class Solution {
         }
     };
     
-//     # Leetcode Problem: Max Balanced Subsequence Sum
+//     # Leetcode Problem: Max Balanced Subsequence Sum(LC 2926)
 // # Approach: Dynamic Programming (Bottom-Up)
 
 // # 1. We use a DP array where dp[i] stores the max balanced subsequence sum ending at index i.
